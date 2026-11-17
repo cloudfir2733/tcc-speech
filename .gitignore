@@ -4,3 +4,6 @@
 .DS_Store
 Thumbs.db
 *.pdf.bak
+
+# 以 md 为母本：同.txt 之类的纯文本副本属派生文件，不入库
+/同.txt
